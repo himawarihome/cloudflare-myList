@@ -1,6 +1,6 @@
 !veta.naver.com
 trillion.toss.im
-loyalty.coupang.com
+!loyalty.coupang.com
 t1.kakaocdn.net
 cdn-ads.tmap.co.kr
 !amdc.aliexpress.com
