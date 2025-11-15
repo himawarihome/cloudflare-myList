@@ -6,3 +6,4 @@ t1.kakaocdn.net !카카오내비
 cdn-ads.tmap.co.kr
 !amdc.aliexpress.com
 advertisement-gw.travel-wallet.com
+graph.facebook.com !스마트택배
