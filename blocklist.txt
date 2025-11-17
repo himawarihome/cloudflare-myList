@@ -5,6 +5,7 @@ trillion.toss.im
 t1.daumcdn.net
 !카카오내비
 t1.kakaocdn.net
+t.kakao.com
 cdn-ads.tmap.co.kr
 !amdc.aliexpress.com
 advertisement-gw.travel-wallet.com
