@@ -9,5 +9,3 @@ t.kakao.com
 cdn-ads.tmap.co.kr
 !amdc.aliexpress.com
 advertisement-gw.travel-wallet.com
-!스마트택배
-graph.facebook.com
