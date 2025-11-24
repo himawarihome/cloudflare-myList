@@ -2,7 +2,7 @@
 trillion.toss.im
 !loyalty.coupang.com
 !카카오맵
-t1.daumcdn.net
+!t1.daumcdn.net
 !카카오내비
 t1.kakaocdn.net
 t.kakao.com
